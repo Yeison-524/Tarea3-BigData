@@ -1,6 +1,6 @@
 # Tarea 3 - Procesamiento Batch con PySpark
 
-**Estudiante:** [Escribe tu nombre aquí]
+**Estudiante:** [Yeison Andres Rendon]
 **Curso:** Big Data (202016911) - UNAD
 
 ## Descripción del proyecto
